@@ -18,4 +18,6 @@ initializing local repository-
 11) git -rm --cached filename.txt (remove file at repo level)
 12) git restore filename.txt  ( restores a file ).
 
-
+13 git branch name ( creates new branch)
+14) git switch name  ( switch to other branch)
+15) we cant delete the current branch
